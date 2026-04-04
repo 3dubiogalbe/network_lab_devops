@@ -8,7 +8,7 @@ Implementar uma solução paralela para um projeto contendo uma grande quantidad
 
 Visual Studio Code (como plataforma de desenvolvimento)
 Python (linguagem utilizada)
-Multiprocessing / MPI (técnologia para o procesamento paralelo)
+Multiprocessing / MPI (tecnologia para o procesamento paralelo)
 
 // Sobre o MPI //
 
